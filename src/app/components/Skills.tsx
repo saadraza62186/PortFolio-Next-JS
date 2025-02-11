@@ -8,9 +8,12 @@ export default function Skills() {
             <div className="bg-blue-100 p-4 rounded-full">HTML</div>
             <div className="bg-blue-100 p-4 rounded-full">CSS</div>
             <div className="bg-blue-100 p-4 rounded-full">JavaScript</div>
-            <div className="bg-blue-100 p-4 rounded-full">React</div>
-            <div className="bg-blue-100 p-4 rounded-full">Next.js</div>
+            <div className="bg-blue-100 p-4 rounded-full">React JS</div>
+            <div className="bg-blue-100 p-4 rounded-full">Next JS</div>
             <div className="bg-blue-100 p-4 rounded-full">TypeScript</div>
+            <div className="bg-blue-100 p-4 rounded-full">Node JS</div>
+            <div className="bg-blue-100 p-4 rounded-full mt-[10px]">Express JS</div>
+            <div className="bg-blue-100 p-4 rounded-full mt-[10px]">MongoDB</div>
           </div>
         </div>
       </section>
